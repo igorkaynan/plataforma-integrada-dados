@@ -1,0 +1,6 @@
+cliente_id,total_compras,receita_total,ticket_medio,ultima_compra,nome,email,cidade,data_cadastro,segmento
+1,2,4800.0,2400.0,2026-08-03,Ana Souza,ana@email.com,São Paulo,2026-01-10,VIP
+3,2,710.0,355.0,2026-08-07,Mariana Costa,mariana@email.com,Mauá,2026-02-01,Ocasional
+5,1,1350.0,1350.0,2026-08-06,Fernanda Rocha,fernanda@email.com,São Paulo,2026-03-05,Regular
+4,1,5200.0,5200.0,2026-08-05,João Silva,joao@email.com,São Bernardo Do Campo,2026-02-10,VIP
+2,2,3200.0,1600.0,2026-08-08,Carlos Lima,carlos@email.com,Santo André,2026-01-15,Regular

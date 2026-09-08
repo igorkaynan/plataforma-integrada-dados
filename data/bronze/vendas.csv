@@ -1,0 +1,9 @@
+venda_id,cliente_id,produto,quantidade,valor_unitario,data_venda
+1001,1,Notebook,1,4500.00,2026-08-01
+1002,2,Monitor,2,1200.00,2026-08-02
+1003,1,Mouse,2,150.00,2026-08-03
+1004,3,Teclado,1,350.00,2026-08-04
+1005,4,Notebook,1,5200.00,2026-08-05
+1006,5,Monitor,1,1350.00,2026-08-06
+1007,3,Mouse,3,120.00,2026-08-07
+1008,2,Teclado,2,400.00,2026-08-08
