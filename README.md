@@ -1,5 +1,7 @@
 # Plataforma Integrada de Dados
 
+<img width="1280" height="720" alt="projeto" src="https://github.com/user-attachments/assets/4d97a36b-20a0-4673-a931-108eace54ade" />
+
 Projeto de portfólio de **Engenharia de Dados** que simula uma plataforma integrada para ingestão, processamento, qualidade e disponibilização de dados para consumo analítico.
 
 A solução integra dados provenientes de **arquivos CSV** e de uma **API REST**, processando-os com **Python e PySpark** por meio da arquitetura Medallion (**Bronze, Silver e Gold**).
